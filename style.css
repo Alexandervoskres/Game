@@ -1,0 +1,36 @@
+body{
+	background-color:navajowhite;
+}
+td {
+    border: 1px solid black;
+    width:100px;
+    height:100px;
+    z-index:0;
+	text-align:center;
+	background-color: aliceblue;
+  }
+  tr { 
+    width: 300px;
+    height: 100px;
+    border: 1px solid black; 
+
+  }
+ 
+  table{
+    width: 300px;
+    border: 1px solid black;
+    border-collapse: collapse;
+	position:relative;
+	margin:auto;
+  }
+h2{
+	font-family:fantasy; 
+	font-weight:100;
+	text-align:center;
+}
+button{
+	margin: 20px auto;
+  display: block;
+  padding:20px;
+  background-color: aliceblue;
+}
